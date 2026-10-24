@@ -1,3 +1,5 @@
 git_token.txt
 
+# Ignored directories
 data/
+outputs/
